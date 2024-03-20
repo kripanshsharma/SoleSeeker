@@ -6,3 +6,5 @@
 •	Designed minimalist UI elements for streamlined navigation and product display.
 
 •	Integrated Firebase Authentication for secure user authentication and account management.
+
+PS: The code is in the master branch.
