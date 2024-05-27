@@ -7,4 +7,4 @@
 
 •	Integrated Firebase Authentication for secure user authentication and account management.
 
-PS: The code is in the master branch.
+# PS: The code is in the master branch.
